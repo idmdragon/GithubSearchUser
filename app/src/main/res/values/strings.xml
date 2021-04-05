@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Clone</string>
+    <string name="username">Username</string>
+    <string name="userid">userid</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="angka_sementara">24</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="company">Company</string>
+    <string name="company_name">Company Name</string>
+    <string name="location_name">Location</string>
+    <string name="myname">Ilham Dwi Muchlison</string>
+    <string name="myemail">ilham.uklison@gmail.com</string>
+    <string name="search">Search . . .</string>
+    <string name="find">Find username on search</string>
+    <string name="try_it">Try it and you will see it</string>
+    <string name="not_found">Ups!.. no result found</string>
+    <string name="try_other">Please try another search</string>
+    <string name="language_settings">Change Language</string>
+    <string name="tab_1">Following</string>
+    <string name="tab_2">Followers</string>
+    <string name="avatar_user">Avatar User</string>
+    <string name="user">User</string>
+    <string name="setting">Setting</string>
+    <string name="daily_alarm">Daily Alarm (09.00 AM)</string>
+    <string name="favorite">Favorite</string>
+    <string name="data_not_found">Data Not Found</string>
+    <string name="add_favorite_first_on_detail_page">Add Favorite First on Detail Page</string>
+</resources>

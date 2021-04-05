@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="data_not_found">Data Not Found</string>
+    <string name="add_favorite_first_on_detail_page">Add Favorite First on Detail Page</string>
+    <string name="user_name">User Name</string>
+    <string name="username">Username</string>
+    <string name="userid">userid</string>
+    <string name="detail">Detail</string>
+    <string name="angka_sementara">24</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="company">Company</string>
+    <string name="company_name">Company Name</string>
+    <string name="location_name">location</string>
+    <string name="myname">Ilham Dwi Muchlison</string>
+    <string name="myemail">ilham.uklison@gmail.com</string>
+    <string name="user">User</string>
+    <string name="github_favorite_user">  Github Favorite User</string>
+
+</resources>

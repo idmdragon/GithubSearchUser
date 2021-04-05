@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Clone</string>
+    <string name="username">Username</string>
+    <string name="userid">userid</string>
+    <string name="detail">Detail</string>
+    <string name="about">Tentang</string>
+    <string name="angka_sementara">24</string>
+    <string name="following">Mengikuti</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Pengikut</string>
+    <string name="company">Perusahaan</string>
+    <string name="company_name">Nama Perusahaan</string>
+    <string name="location_name">Lokasi</string>
+    <string name="myname">Ilham Dwi Muchlison</string>
+    <string name="myemail">ilham.uklison@gmail.com</string>
+    <string name="search">Cari . . .</string>
+    <string name="find">Cari Nama pengguna di search</string>
+    <string name="try_it">Cobalah dan kamu akan melihatnya</string>
+    <string name="not_found">Ups!.. tidak berhasil menemukan</string>
+    <string name="try_other">Silahkan coba masukan yang lain</string>
+    <string name="language_settings">Ubah Preferensi Bahasa</string>
+    <string name="tab_1">Mengikuti</string>
+    <string name="tab_2">Pengikut</string>
+    <string name="avatar_user">Avatar Pengguna</string>
+    <string name="user">Pengguna</string>
+    <string name="setting">Pengaturan</string>
+    <string name="daily_alarm">Alarm Harian (09:00 AM)</string>
+    <string name="favorite">Favorit</string>
+    <string name="data_not_found">Data Tidak di Temukan</string>
+    <string name="add_favorite_first_on_detail_page">Tambahkan Favorite Pada Halaman Detail</string>
+</resources>
